@@ -1,7 +1,3 @@
-# Terms of use
-
-bla bla bla bla 
-
 ## Terms of use
 
 bla bla bla bla 
