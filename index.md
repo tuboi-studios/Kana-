@@ -17,10 +17,15 @@ The software is opensource. Its code is shared at https://github.com/jttuboi/kan
 The images used as the images of the words and the images of the hiraganas and katakanas are my property. They are not allowed to be used, modified or shared. That's why it's not even shared in the project at https://github.com/jttuboi/kana_plus_plus.
 
 The image strokes of the hiragana and katakana syllables were taken from [KanjiVG](http://kanjivg.tagaini.net/) and these images are on [Creative Commons Attribution-Share Alike 3.0](https://creativecommons.org/licenses/by-sa/3.0/) license.
+
 The syllable points were taken from the SVG images of [KanjiVG](http://kanjivg.tagaini.net/) and these images are over [Creative Commons Attribution-Share Alike 3.0](https://creativecommons.org/licenses/by-sa/3.0/) license.
+
 The overview information is taken from Wikipedia [Hiragana en](https://en.wikipedia.org/wiki/Hiragana), [Hiragana pt](https://pt.wikipedia.org/wiki/Hiragana) [Katakana en](https://en.wikipedia.org/wiki/Katakana), [Katakana pt](https://pt.wikipedia.org/wiki/Katakana).
+
 The licenses for the fonts used are mentioned within the project and can be seen at https://github.com/jttuboi/kana_plus_plus/tree/master/lib/assets/fonts.
+
 The icons were taken from [Google fonts](https://fonts.google.com/icons) and those non-existent icons were created by me and can be seen at https://github.com/jttuboi/kana_plus_plus/tree/master/lib/assets/icons.
+
 The word data were mostly collected through [Jisho](https://jisho.org/).
 
 ### Changes to This Privacy Policy
