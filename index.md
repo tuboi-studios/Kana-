@@ -12,9 +12,9 @@ The data collected by the app is used only for the own use in it. No user-genera
 
 ### Copyright App
 
-The software is opensource. Its code is shared at https://github.com/jttuboi/kana_plus_plus. All content specifically available in the repository can be used under the MIT License.
+The software is open source. Its code is shared at https://github.com/jttuboi/kana_plus_plus. All content specifically available in the repository can be used under the MIT License.
 
-The images used as the images of the words and the images of the hiraganas and katakanas are my property. They are not allowed to be used, modified or shared. That's why it's not even shared in the project at https://github.com/jttuboi/kana_plus_plus.
+The images used as the images of the words and the images of the hiraganas and katakanas are my property. They are not allowed to be used, modified or shared. That's why it's not even shared in the project.
 
 The image strokes of the hiragana and katakana syllables were taken from [KanjiVG](http://kanjivg.tagaini.net/) and these images are on [Creative Commons Attribution-Share Alike 3.0](https://creativecommons.org/licenses/by-sa/3.0/) license.
 
@@ -26,7 +26,7 @@ The licenses for the fonts used are mentioned within the project and can be seen
 
 The icons were taken from [Google fonts](https://fonts.google.com/icons) and those non-existent icons were created by me and can be seen at https://github.com/jttuboi/kana_plus_plus/tree/master/lib/assets/icons.
 
-The word data were mostly collected through [Jisho](https://jisho.org/).
+The word data information were mostly collected through [Jisho](https://jisho.org/).
 
 ### Changes to This Privacy Policy
 
